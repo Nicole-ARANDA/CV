@@ -1,0 +1,69 @@
+
+.Entrada{
+    background-color: black;
+    text-decoration-line: none;
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+    
+
+    }
+
+a{
+    text-decoration: none;
+    color: white;
+    }    
+  
+img{
+    height: 400px;
+    width: 400px;
+}
+.FotoPortada{
+    height: 100%;
+    width:20%;
+
+}
+
+.Contenedor{
+    margin: 0;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: beige;
+ 
+
+}
+
+.Contenedor.Menu{
+   margin: 0;
+   padding: 0;
+
+}
+
+ul {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    padding-left: 20%;
+    list-style-type: none;
+    overflow:hidden;
+    background-color: rgb(29, 245, 58);
+    
+}
+  
+ul li {
+    float: left;
+    
+    
+  
+}
+  
+ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+ul li a:hover {
+    background-color: red;
+}
